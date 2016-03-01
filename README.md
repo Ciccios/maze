@@ -9,11 +9,11 @@ You need to implement the method canMove
 
 ```java
 @Override
-    public boolean canMoveBetweenPointsOnMaze(Maze maze, int startX, int startY, int endX, int endY) {
+public boolean canMoveBetweenPointsOnMaze(Maze maze, int startX, int startY, int endX, int endY) {
 
-        //Implement your method here
-
-    }
+    //Implement your method here
+    
+}
 ```
-Where given the coordinates of the start point s=(startX,startY) and e=(endX,endY) the method returns 
-true if there is a path between s and e. False otherwise
+Where given the coordinates of the start point **s=(startX,startY)** and **e=(endX,endY)** the method returns 
+true if there is a path between **s** and **e**. False otherwise
