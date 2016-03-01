@@ -31,3 +31,5 @@ public boolean canMoveBetweenPointsOnMaze(Maze maze, int startX, int startY, int
 ```
 Where given the coordinates of the start point **s=(startX,startY)** and **e=(endX,endY)** the method returns 
 true if there is a path between **s** and **e**. False otherwise
+
+After you have implemented the method above, to check your solution please run the tests in the class **MazeTest.java**
