@@ -19,7 +19,7 @@ we cannot move to the black bock
           └───┴───┴───┴───┴───┘
       
 
-You need to implement the method canMove
+You need to implement the method canMoveBetweenPointsOnMaze
 
 ```java
 @Override
