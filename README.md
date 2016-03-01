@@ -5,6 +5,20 @@ Simple exercise of solving a maze
 Given a matrix of black and white blocks, where we can move into the white block but
 we cannot move to the black bock
 
+      /**     0   1   2   3   4
+         *    ┌───┬───┬───┬───┬───┐
+         *  0 │s0 │▒▒▒│   │   │   │
+         *    ├───┼───┼───┼───┼───┤
+         *  1 │   │▒▒▒│▒▒▒│▒▒▒│▒▒▒│
+         *    ├───┼───┼───┼───┼───┤
+         *  2 │   │   │   │   │   │
+         *    ├───┼───┼───┼───┼───┤
+         *  3 │▒▒▒│   │▒▒▒│   │   │
+         *    ├───┼───┼───┼───┼───┤
+         *  4 │   │   │▒▒▒│   │e0 │
+         *    └───┴───┴───┴───┴───┘
+         */
+
 You need to implement the method canMove
 
 ```java
